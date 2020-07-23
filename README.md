@@ -37,12 +37,12 @@
 
 - What are some limitations of this dataset?
 
-     -There is not a lot of data for plays with goal amounts over $15,000 compared to the increments underneath that amount.
-     -There is not a high correlation between goal amounts and outcome due to the reason I mentioned above. So it is difficult to draw a conclusion.
+     1) There is not a lot of data for plays with goal amounts over $15,000 compared to the increments underneath that amount.
+     2) There is not a high correlation between goal amounts and outcome due to the reason I mentioned above. So it is difficult to draw a conclusion.
 
 - What are some other possible tables and/or graphs that we could create?
 
-     -We could examine the lengths of successful campaigns.
-     -We could examine if the amount of successful campaigns have increased or decreased over the years as a whole.
-     -We could examine the average donation amount from each backer and possible determine incentives for higher donations.
+     1) We could examine the lengths of successful campaigns.
+     2) We could examine if the amount of successful campaigns have increased or decreased over the years as a whole.
+     3) We could examine the average donation amount from each backer and possible determine incentives for higher donations.
 
