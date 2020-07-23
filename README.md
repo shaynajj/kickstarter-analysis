@@ -10,12 +10,12 @@
 
 ### Analysis of Outcomes Based on Launch Date
      
-     a) First I created a Pivot Table filtering the Parent Category of the campaigns and the Year the campaigns were launched. The table displayed total outcomes for each month from 2009-2017.
+     First I created a Pivot Table filtering the Parent Category of the campaigns and the Year the campaigns were launched. The table displayed total outcomes for each month from 2009-2017.
      [Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)  
 
 ### Analysis of Outcomes Based on Goals
      
-     a) First I created a table with the goal amounts broken into $5,000 increments, and the outcomes separated into separate columns for individual count and percentage. Then I created a function to filter the outcomes based on each goal amount increment. After that, I calculated outcome percentages of each goal increment, which I then made into a Line Chart.
+     First I created a table with the goal amounts broken into $5,000 increments, and the outcomes separated into separate columns for individual count and percentage. Then I created a function to filter the outcomes based on each goal amount increment. After that, I calculated outcome percentages of each goal increment, which I then made into a Line Chart.
      [Outcomes Based on Goals](docs/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
