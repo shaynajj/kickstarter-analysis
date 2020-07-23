@@ -4,7 +4,7 @@
 
 ### Purpose
      To research how different Kickstarter campaigns fare in relation to their launch dates and their funding goals.
-     [Kickstarter Campaign data used for this project](docs/Kickstarter_Challenge_copy.zip.md)
+     ![Kickstarter Campaign data used for this project](docs/Kickstarter_Challenge_copy.zip)
 
 ## Analysis and Challenges
 
