@@ -11,7 +11,7 @@
 ### Analysis of Outcomes Based on Launch Date
      
      First I created a Pivot Table filtering the Parent Category of the campaigns and the Year the campaigns were launched. The table displayed total outcomes for each month from 2009-2017.
-     ![Theater Outcomes Based on Launch Date](/master/Theater_Outcomes_vs_Launch.png)  
+     ![Theater Outcomes Based on Launch Date](/Theater_Outcomes_vs_Launch.png)  
 
 ### Analysis of Outcomes Based on Goals
      
