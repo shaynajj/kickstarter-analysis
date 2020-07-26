@@ -16,7 +16,7 @@
 ### Analysis of Outcomes Based on Goals
      
      First I created a table with the goal amounts broken into $5,000 increments, and the outcomes separated into separate columns for individual count and percentage. Then I created a function to filter the outcomes based on each goal amount increment. After that, I calculated outcome percentages of each goal increment, which I then made into a Line Chart.
-     ![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
+     ![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
