@@ -44,4 +44,6 @@
      1) We could examine the lengths of successful campaigns.
      2) We could examine if the amount of successful campaigns have increased or decreased over the years as a whole.
      3) We could examine the average donation amount from each backer and possible determine incentives for higher donations.
+     
+     ![Theater Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png) 
 
