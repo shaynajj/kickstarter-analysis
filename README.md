@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-     To research how different Kickstarter campaigns fare in relation to their launch dates and their funding goals.
+To research how different Kickstarter campaigns fare in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
@@ -14,14 +14,14 @@ First I created a Pivot Table filtering the Parent Category of the campaigns and
 
 ### Analysis of Outcomes Based on Goals
      
-     First I created a table with the goal amounts broken into $5,000 increments, and the outcomes separated into separate columns for individual count and percentage. Then I created a function to filter the outcomes based on each goal amount increment. After that, I calculated outcome percentages of each goal increment, which I then made into a Line Chart.
-     ![Outcomes Based on Goals](./resources/Outcomes_vs_Goals.png)
+First I created a table with the goal amounts broken into $5,000 increments, and the outcomes separated into separate columns for individual count and percentage. Then I created a function to filter the outcomes based on each goal amount increment. After that, I calculated outcome percentages of each goal increment, which I then made into a Line Chart.
+![Outcomes Based on Goals](./Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
-     A challenge that I faced at first was how to group and ungroup the launch dates on the pivot table. But I was able to learn what to do with the Microsoft links included in the assignment. I also had to figure out how to remove the PivotChart titles from the chart itself before I could save the image.
+A challenge that I faced at first was how to group and ungroup the launch dates on the pivot table. But I was able to learn what to do with the Microsoft links included in the assignment. I also had to figure out how to remove the PivotChart titles from the chart itself before I could save the image.
 
-     I also had a small challenge as I was trying to check my work with the COUNTIFS function. Using the PivotChart for Subcategory analysis that I created at an earlier time, I knew what my totals should have been. However, I was off. After a little review, I realized that I had the wrong equality symbol on my first line and that was the solution.
+I also had a small challenge as I was trying to check my work with the COUNTIFS function. Using the PivotChart for Subcategory analysis that I created at an earlier time, I knew what my totals should have been. However, I was off. After a little review, I realized that I had the wrong equality symbol on my first line and that was the solution.
 
 ## Results
 
@@ -44,6 +44,3 @@ First I created a Pivot Table filtering the Parent Category of the campaigns and
      1) We could examine the lengths of successful campaigns.
      2) We could examine if the amount of successful campaigns have increased or decreased over the years as a whole.
      3) We could examine the average donation amount from each backer and possible determine incentives for higher donations.
-     
-     ![Theater Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png) 
-
